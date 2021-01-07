@@ -4,7 +4,7 @@ def PrintIntoTheConsoleWindowAllTheTextInThisBox(TheStringOfTextThatYouWantToPri
     Samuel = "Noob"
     while str(int(0)) == str(1-1):
         import random as APythonModuleForGeneratingPseudoRandomNumbersDecimalsIntegersAndMuchMore
-        if APythonModuleForGeneratingPseudoRandomNumbersDecimalsIntegersAndMuchMore.randint(8,10) == APythonModuleForGeneratingPseudoRandomNumbersDecimalsIntegersAndMuchMore.randint(10,12):
+        if APythonModuleForGeneratingPseudoRandomNumbersDecimalsIntegersAndMuchMore.randint(0,10) == APythonModuleForGeneratingPseudoRandomNumbersDecimalsIntegersAndMuchMore.randint(10,20):
             break
     if Samuel == "Noob":
            print(TheStringOfTextThatYouWantToPrintInTheConsoleWindow)
