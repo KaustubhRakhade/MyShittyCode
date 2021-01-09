@@ -1,4 +1,4 @@
-#I dont write comments
+#I don't write comments
 import os as ATraditionOfImportingUselessStuff
 
 def PrintIntoTheConsoleWindowAllTheTextInThisBox(TheStringOfTextThatYouWantToPrintInTheConsoleWindow):
